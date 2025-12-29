@@ -19,7 +19,7 @@ The dataset contains 100,000 order-level records with the following key attribut
 ## Tools Used
 - Microsoft Excel
 - PivotTables and PivotCharts
-- Slicers
+- Slicers and Timeline
 - Conditional Formatting
 
 ---
